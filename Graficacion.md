@@ -28,11 +28,10 @@ dir
 ejemploenv/Scripts/p
 ejemploenv/activate.bat 
 ```
-```
 
 Acontinuación se menciona como _instalar la libreria_ y un programa básico para cargar una imagen con dicha libreria.
 
-```
+
 ```
 pip install opencv-contrib-python
 ----------------------------------
